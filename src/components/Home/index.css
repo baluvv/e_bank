@@ -1,0 +1,38 @@
+.home-container {
+  background-color: #152850;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+}
+.website-logo {
+  height: 50px;
+  width: 120px;
+}
+.logout-button {
+  height: 35px;
+  font-family: 'Roboto';
+  color: #c3cad9;
+  border-width: 1px;
+  border-style: solid;
+  width: 110px;
+  border-color: #c3cad9;
+  background-color: transparent;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.home-heading {
+  font-family: 'Roboto';
+  font-size: 50px;
+  color: #ffffff;
+  font-weight: bold;
+  align-self: center;
+}
+.digital-card {
+  align-self: center;
+}
